@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeanArMo
-- 👀 I’m interested in python, and web development.
+- 👀 I’m interested in rust, python, and web development.
 
 <!---
 SeanArMo/SeanArMo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
